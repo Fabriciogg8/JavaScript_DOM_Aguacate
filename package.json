@@ -1,4 +1,5 @@
 {
+  "homepage": "https://fabriciogg8.github.io/JavaScript_DOM_Aguacate",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
