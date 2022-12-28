@@ -1,0 +1,14 @@
+@import "../_snowpack/pkg/tailwindcss/dist/base.css";
+@import "../_snowpack/pkg/tailwindcss/dist/components.css";
+@import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+/* 
+.muy-grande {
+    font-size: 3rem;
+}
+ */
+#app {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
